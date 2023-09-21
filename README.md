@@ -224,3 +224,4 @@ The model used in the Damage Visualizer is courtesy of Microsoft AI for Humanita
 For additional information and resources, please refer to: https://github.com/microsoft/building-damage-assessment-cnn-siamese
 # Disaster_assessment
 # Disaster_assessment
+# Disaster_assessment

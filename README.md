@@ -229,3 +229,4 @@ For additional information and resources, please refer to: https://github.com/mi
 # Disaster_assessment
 # Disaster_assessment
 # Morocco_disater_assessment
+# Natural_disaster_assessement

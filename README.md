@@ -222,11 +222,4 @@ This libraries are included in the `css/`, `js/`, and `fonts/` directories.
 
 The model used in the Damage Visualizer is courtesy of Microsoft AI for Humanitarian Action project in collaboration with the NLRC 510 global initiative.
 For additional information and resources, please refer to: https://github.com/microsoft/building-damage-assessment-cnn-siamese
-# Disaster_assessment
-# Disaster_assessment
-# Disaster_assessment
-# Disaster_assessment
-# Disaster_assessment
-# Disaster_assessment
-# Morocco_disater_assessment
-# Natural_disaster_assessement
+

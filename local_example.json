@@ -1,6 +1,6 @@
 {
   "preImageryLayer": {
-    "basemapURL": "http://vm001/20.77.101.139>:8080/data/2013_tiles/{z}/{x}/{y}.png",
+    "basemapURL": "http://vm001/20.77.101.139:8080/data/2013_tiles/{z}/{x}/{y}.png",
     "date": "2013 imagery",
     "attribution": "",
     "bounds": [
@@ -9,7 +9,7 @@
     ]
   },
   "postImageryLayer": {
-    "basemapURL": "http://vm001/20.77.101.139>:8080/data/2019_tiles/{z}/{x}/{y}.png",
+    "basemapURL": "http://vm001/20.77.101.139:8080/data/2019_tiles/{z}/{x}/{y}.png",
     "date": "2019 imagery",
     "attribution": "",
     "bounds": [
@@ -18,7 +18,7 @@
     ]
   },
   "changeImageryLayer": {
-    "basemapURL": "http://vm001/20.77.101.139>:8080/data/damage_tiles/{z}/{x}/{y}.png",
+    "basemapURL": "http://vm001/20.77.101.139:8080/data/damage_tiles/{z}/{x}/{y}.png",
     "bounds": [
       [47.62170620047876, -122.12082716224859],
       [47.69079013651763, -122.19162910382583]
